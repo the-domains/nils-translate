@@ -1,0 +1,28 @@
+name: Nils Translate
+favicon: null
+layout_spectrum: 0.9789627890568227
+typography_spectrum: 0.7758451947011054
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.07174405874684453
+  lightness: 0.96726268902421
+  saturation: 0.6640145648270845
+  rhythmicContrast: 0.5684653054922819
+purpose: []
